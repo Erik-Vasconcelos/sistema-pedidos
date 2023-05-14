@@ -13,6 +13,7 @@ import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 import javax.persistence.OneToOne;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.nelioalves.cursomc.sp.domain.enums.EstadoPagamento;
 
 @Entity
@@ -28,6 +29,7 @@ public abstract class Pagamento implements Serializable {
 	private Integer estado;
 
 	//@MapsId
+	@JsonIgnore
 	@OneToOne
 	private Pedido pedido;
 	
