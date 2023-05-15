@@ -26,11 +26,11 @@ O modelo desenvolvido tem como objetivo criar um sistema de pedidos, onde o clie
 
 ## Diagrama do projeto desenvolvido :pencil: 
 
-![Diagrama de classes](https://github.com/Erik-Vasconcelos/sistema-pedidos/diagrama.png)
+![Diagrama de classes](https://github.com/Erik-Vasconcelos/sistema-pedidos/blob/main/diagrama.png)
 
 ## Diagrama de instâncias :fountain_pen:
 
-![](https://github.com/Erik-Vasconcelos/sistema-pedidos/diagrama.png)
+![](https://github.com/Erik-Vasconcelos/sistema-pedidos/blob/main/instancias.png)
 
 
 ----
