@@ -60,7 +60,7 @@ public class SistemaPedidoApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		/*Categoria cat1 = new Categoria("Informática");
+		Categoria cat1 = new Categoria("Informática");
 		Categoria cat2 = new Categoria("Escritório");
 		
 		Produto p1 = new Produto("Computador", 2000.00);
@@ -129,7 +129,7 @@ public class SistemaPedidoApplication implements CommandLineRunner {
 		p2.getItens().addAll(Arrays.asList(ip3));
 		p3.getItens().addAll(Arrays.asList(ip2));
 		
-		itemPedidoRepository.saveAll(Arrays.asList(ip1, ip2, ip3));	*/
+		itemPedidoRepository.saveAll(Arrays.asList(ip1, ip2, ip3));
 		
 	}
 }

@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.sistemapedido;
+package com.nelioalves.cursomc.sp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

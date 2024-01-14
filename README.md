@@ -10,7 +10,8 @@ O modelo desenvolvido tem como objetivo criar um sistema de pedidos, onde o clie
 - ``Spring Boot``
 - ``Spring Data Jpa``
 - ``Maven``
-- ``MySql``
+- ``PostgreSQL``
+- ``Docker``
 - ``Eclipse IDE``
 - ``Orientação a objetos``
 - ``UML - Unified Modeling Language``
