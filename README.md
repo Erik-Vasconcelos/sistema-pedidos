@@ -4,6 +4,9 @@ Construção de um projeto em Spring Boot para aplicação do conhecimento adqui
 
 O modelo desenvolvido tem como objetivo criar um sistema de pedidos, onde o cliente tem seus dados pessoais como endereço e telefone, tem a função de realizar pedidos que são compostos por produtos que podem se enquadrar em diversas categorias por exemplo: escritório e informática. Por fim, ao realizar um pedido é informado o endereço de entrega e a forma de pagamento que pode ser por boleto ou por cartão.  
 
+## Link de acesso a API:
+Acesso: https://sistema-pedidos-ox28.onrender.com/pedidos/1
+
 ## Técnicas e tecnologias utilizadas :computer:
 
 - ``Java 17``
